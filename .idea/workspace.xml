@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32be6f7e-6cc8-4370-baa7-caf775c5b4cb" name="Default" comment="" />
+    <list default="true" id="32be6f7e-6cc8-4370-baa7-caf775c5b4cb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +50,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="763" />
-    <option name="y" value="211" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="749" />
+    <option name="y" value="62" />
     <option name="width" value="1400" />
     <option name="height" value="781" />
   </component>
@@ -69,6 +71,11 @@
             <path>
               <item name="简易Blog demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="简易Blog demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="简易Blog demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="简易Blog demo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,15 +165,15 @@
       <updated>1530018786395</updated>
       <workItem from="1530018796251" duration="316000" />
       <workItem from="1530021468674" duration="709000" />
-      <workItem from="1530022256678" duration="513000" />
+      <workItem from="1530022256678" duration="821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1538000" />
+    <option name="totallyTimeSpent" value="1846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="52" width="1400" height="781" extended-state="0" />
+    <frame x="749" y="62" width="1400" height="781" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
